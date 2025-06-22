@@ -1,10 +1,9 @@
+import React from 'react'
 
-const page = () => {
+const Page = () => {
   return (
-    <div className="text-2xl underline">
-      Welcome to Loom Clone
-    </div>
+    <div className='text-2xl font-karla'>Welcome to Loom</div>
   )
 }
 
-export default page
+export default Page
